@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Counter from './Counter';
 const Main = () => {
   return (
-    <div className='container'>
+    <div className='container-sm'>
     <Counter/>
     </div>
   )
